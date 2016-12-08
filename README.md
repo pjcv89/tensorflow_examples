@@ -1,2 +1,1 @@
-# tensorflow_examples
-Sample work on Tensorflow library
+# Sample work using the Tensorflow library
